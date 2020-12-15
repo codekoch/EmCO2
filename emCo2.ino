@@ -1,5 +1,5 @@
 #include <MHZ19.h>
-
+// Code from Felix Dolf in cooperation with the Q1 computer science course of AEG Kaarst
 //Pin setup
 const int buzzer=12,green=11,orange=10,red=9,button=6;
 
