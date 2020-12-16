@@ -1,4 +1,5 @@
 <img align="right" src="https://github.com/codekoch/EmCO2/blob/main/logo_small_blau.png">
+
 # EmCO2
 Open source CO2 Ampel vom Albert-Einstein-Gymnasium in Kaarst
 
@@ -26,7 +27,7 @@ der Q1 Informatikkurs des AEGs Kaarst
 [![schaltplan](https://github.com/codekoch/EmCO2/blob/main/Co2%20Schaltplan.png)](https://github.com/codekoch/EmCO2/blob/main/Co2%20Schaltplan.png)
 
 ## Quellcode für den Arduino
-[![code](https://github.com/codekoch/EmCO2/blob/main/emCo2.ino](code)
+![code](https://github.com/codekoch/EmCO2/blob/main/emCo2.ino)
 
 Hinweis: Für unser Projekt haben einen Arduino Leonardo verwendet.
 
