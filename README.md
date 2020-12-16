@@ -15,15 +15,19 @@ Als DIY-Projekt haben wir entsprechende Geräte mithilfe des Leonardo Arduinos p
 ![bild4](https://github.com/codekoch/EmCO2/blob/main/06_3dDruck.jpg)
 ![bild5](https://github.com/codekoch/EmCO2/blob/main/05_loeten.jpg)
 ![bild6](https://github.com/codekoch/EmCO2/blob/main/07_breadboardAufbau1.jpg)
+![bild7](https://github.com/codekoch/EmCO2/blob/main/08_prototyp.jpg)
 
-
-
-Open source:
+## Open Source
 Da wir der Meinung sind, dass es in unserer sich immer weiter entwickelnden und digitalisierten Gesellschaft wichtig ist, solche Ideen für alle Menschen zugänglich zu machen, wollen wir unser Wissen als Open-Source-Projekt mit Euch teilen. Im Sinne des Open-Source Gedankens kann jeder unser Projekt nachbauen und beliebig verbessern.
 
 Viel Spaß dabei wünscht Euch
 der Q1 Informatikkurs des AEGs Kaarst
 
 ## Schaltplan
-[![AEG](https://github.com/codekoch/EmCO2/blob/main/Co2%20Schaltplan.png)](https://github.com/codekoch/EmCO2/blob/main/Co2%20Schaltplan.png)
+[![schaltplan](https://github.com/codekoch/EmCO2/blob/main/Co2%20Schaltplan.png)](https://github.com/codekoch/EmCO2/blob/main/Co2%20Schaltplan.png)
+
+## Quellcode für den Arduino
+![code](https://github.com/codekoch/EmCO2/blob/main/emCo2.ino)
+
+Hinweis: Für unser Projekt haben einen Arduino Leonardo verwendet.
 
