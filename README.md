@@ -5,8 +5,10 @@ Open source CO2 Ampel entwickelt vom Albert-Einstein-Gymnasium in Kaarst
 
 [![EMCO2](https://github.com/codekoch/EmCO2/blob/main/prototyp.jpg)](https://www.aeg-kaarst.eu/de/)
 
-## Problemstellung/Motivation
-Für die Bekämpfung des Coronavirus an Schulen können CO2-Ampeln sehr nützlich sein, da sie den CO2-Gehalt und somit auch indirekt die Menge an Aerosolen messen, die sich in Klassenräumen anhäufen. Die CO2-Ampel zeigt also an, wann das L (Lüften) bei den AHA+L+A Regeln dringend erforderlich ist. Auf konventionellem Wege ist es aber aufgrund der sehr hohen Nachfrage nicht oder nur sehr kostspielig möglich, CO2-Ampeln zu besorgen. Deswegen haben wir (der Informatikkurs der Q1 des Albert-Einstein-Gymnasiums in Kaarst) entschieden, die Beschaffung selbst in die Hand zu nehmen...
+## Problemstellung
+Für die Bekämpfung des Coronavirus an Schulen können CO2-Ampeln sehr nützlich sein, da sie den CO2-Gehalt und somit auch indirekt die Menge an Aerosolen messen, die sich in Klassenräumen anhäufen. Die CO2-Ampel zeigt also an, wann das L (Lüften) bei den AHA+L+A Regeln dringend erforderlich ist.
+
+Auf konventionellem Wege ist es aber aufgrund der sehr hohen Nachfrage nicht oder nur sehr kostspielig möglich, CO2-Ampeln zu besorgen. Deswegen haben wir (der Informatikkurs der Q1 des Albert-Einstein-Gymnasiums in Kaarst) entschieden, die Beschaffung selbst in die Hand zu nehmen...
 
 ## Unsere Lösung
 
@@ -24,6 +26,16 @@ Da wir der Meinung sind, dass es in unserer sich immer weiter entwickelnden und 
 
 Viel Spaß dabei wünscht Euch
 der Q1 Informatikkurs des AEGs Kaarst
+
+## Bauteile
+- Arduino Leonardo
+- CO2 Sensor MH-Z19B
+- Widerstände 3x10Ohm,330Ohm und 5kOhm
+- Buzzer
+- Pushbutton
+- grüne, orange/gelbe und rote LED
+- Kabel + Schrumpfschläuche
+- Gehäuse (3D-Druck)
 
 ## Schaltplan
 [![schaltplan](https://github.com/codekoch/EmCO2/blob/main/Co2%20Schaltplan.png)](https://github.com/codekoch/EmCO2/blob/main/Co2%20Schaltplan.png)
