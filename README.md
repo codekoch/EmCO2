@@ -9,12 +9,12 @@ Für die Bekämpfung des Coronavirus an Schulen können CO2-Ampeln sehr nützlic
 
 Unsere Lösung:
 Als DIY-Projekt haben wir entsprechende Geräte mithilfe des Leonardo Arduinos programmiert, designed und zusammengebaut.
-[![bild1](https://github.com/codekoch/EmCO2/blob/main/04_testaufbau.jpg)]
-[![bild2](https://github.com/codekoch/EmCO2/blob/main/02_programmieren.jpg)]
-[![bild3](https://github.com/codekoch/EmCO2/blob/main/03_schaltplan.jpg)]
-[![bild4](https://github.com/codekoch/EmCO2/blob/main/06_3dDruck.jpg)]
-[![bild5](https://github.com/codekoch/EmCO2/blob/main/05_loeten.jpg)]
-[![bild6](https://github.com/codekoch/EmCO2/blob/main/07_breadboardAufbau1.jpg)]
+![bild1](https://github.com/codekoch/EmCO2/blob/main/04_testaufbau.jpg)
+![bild2](https://github.com/codekoch/EmCO2/blob/main/02_programmieren.jpg)
+![bild3](https://github.com/codekoch/EmCO2/blob/main/03_schaltplan.jpg)
+![bild4](https://github.com/codekoch/EmCO2/blob/main/06_3dDruck.jpg)
+![bild5](https://github.com/codekoch/EmCO2/blob/main/05_loeten.jpg)
+![bild6](https://github.com/codekoch/EmCO2/blob/main/07_breadboardAufbau1.jpg)
 
 
 
