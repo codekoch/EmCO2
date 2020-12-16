@@ -5,7 +5,6 @@ Open source CO2 Ampel vom Albert-Einstein-Gymnasium in Kaarst
 
 [![AEG](https://github.com/codekoch/EmCO2/blob/main/logo_small_blau.png)](https://www.aeg-kaarst.eu/de/)
 
-CO2 Ampeln am AEG
 Für die Bekämpfung des Coronavirus an Schulen können CO2-Ampeln sehr nützlich sein, da sie den CO2-Gehalt und somit auch indirekt die Menge an Aerosolen messen, die sich in Klassenräumen anhäufen. Die CO2-Ampel zeigt also an, wann das L (Lüften) bei den AHA+L+A Regeln dringend erforderlich ist. Auf konventionellem Wege ist es aber aufgrund der sehr hohen Nachfrage nicht oder nur sehr kostspielig möglich, CO2-Ampeln zu besorgen. Deswegen haben wir (der Informatikkurs der Q1 des Albert-Einstein-Gymnasiums in Kaarst) entschieden, die Beschaffung selbst in die Hand zu nehmen...
 
 Unsere Lösung:
