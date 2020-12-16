@@ -12,7 +12,8 @@ Auf konventionellem Wege ist es aber aufgrund der sehr hohen Nachfrage nicht ode
 
 ## Unsere Lösung
 
-Als DIY-Projekt haben wir entsprechende Geräte mithilfe des Leonardo Arduinos programmiert, designed und zusammengebaut.
+Als DIY-Projekt haben wir entsprechende Geräte mithilfe des Leonardo Arduinos programmiert, designed und zusammengebaut: 
+
 ![bild1](https://github.com/codekoch/EmCO2/blob/main/04_testaufbau.jpg)
 ![bild2](https://github.com/codekoch/EmCO2/blob/main/02_programmieren.jpg)
 ![bild3](https://github.com/codekoch/EmCO2/blob/main/03_schaltplan.jpg)
