@@ -27,7 +27,7 @@ der Q1 Informatikkurs des AEGs Kaarst
 [![schaltplan](https://github.com/codekoch/EmCO2/blob/main/Co2%20Schaltplan.png)](https://github.com/codekoch/EmCO2/blob/main/Co2%20Schaltplan.png)
 
 ## Quellcode für den Arduino
-(https://github.com/codekoch/EmCO2/blob/main/emCo2.ino)
+https://github.com/codekoch/EmCO2/blob/main/emCo2.ino
 
 Hinweis: Für unser Projekt haben einen Arduino Leonardo verwendet.
 
