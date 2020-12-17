@@ -14,7 +14,8 @@ Auf konventionellem Wege ist es aber aufgrund der sehr hohen Nachfrage nicht ode
 
 Als DIY-Projekt haben wir entsprechende Geräte mithilfe des Leonardo Arduinos programmiert, designed und zusammengebaut: 
 
-![Abbildun 1: Kennenlernen des Arduions und erste Testaufbau!](https://github.com/codekoch/EmCO2/blob/main/04_testaufbau.jpg)
+![bild1](https://github.com/codekoch/EmCO2/blob/main/04_testaufbau.jpg)
+Abbildun 1: Kennenlernen des Arduions und erste Testaufbau!
 ![bild2](https://github.com/codekoch/EmCO2/blob/main/02_programmieren.jpg)
 ![bild3](https://github.com/codekoch/EmCO2/blob/main/03_schaltplan.jpg)
 ![bild4](https://github.com/codekoch/EmCO2/blob/main/06_3dDruck.jpg)
