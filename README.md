@@ -44,5 +44,5 @@ der Q1 Informatikkurs des AEGs Kaarst
 ## Quellcode für den Arduino
 https://github.com/codekoch/EmCO2/blob/main/emCo2.ino
 
-Hinweis: Für unser Projekt haben einen Arduino Leonardo verwendet.
+Hinweis: Für unser Projekt haben wir einen Arduino Leonardo verwendet.
 
