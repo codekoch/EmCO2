@@ -15,7 +15,6 @@ Auf konventionellem Wege ist es aber aufgrund der sehr hohen Nachfrage nicht ode
 Als DIY-Projekt haben wir entsprechende Geräte mithilfe des Leonardo Arduinos programmiert, designed und zusammengebaut: 
 
 ![bild1](https://github.com/codekoch/EmCO2/blob/main/04_testaufbau.jpg)
-Abbildun 1: Kennenlernen des Arduions und erste Testaufbau!
 ![bild2](https://github.com/codekoch/EmCO2/blob/main/02_programmieren.jpg)
 ![bild3](https://github.com/codekoch/EmCO2/blob/main/03_schaltplan.jpg)
 ![bild4](https://github.com/codekoch/EmCO2/blob/main/06_3dDruck.jpg)
@@ -23,8 +22,8 @@ Abbildun 1: Kennenlernen des Arduions und erste Testaufbau!
 ![bild6](https://github.com/codekoch/EmCO2/blob/main/07_breadboardAufbau1.jpg)
 ![bild7](https://github.com/codekoch/EmCO2/blob/main/08_prototyp.jpg)
 
-## Open Source
-Da wir der Meinung sind, dass es in unserer sich immer weiter entwickelnden und digitalisierten Gesellschaft wichtig ist, solche Ideen für alle Menschen zugänglich zu machen, wollen wir unser Wissen als Open-Source-Projekt mit Euch teilen. Im Sinne des Open-Source Gedankens kann jeder unser Projekt nachbauen und beliebig verbessern.
+## Open Source  
+Da wir der Meinung sind, dass es in unserer sich immer weiter entwickelnden und digitalisierten Gesellschaft wichtig ist, nützliche Ideen für alle Menschen zugänglich zu machen, wollen wir unser Wissen als Open-Source-Projekt mit Euch teilen. Im Sinne des Open-Source Gedankens kann jeder unser Projekt nachbauen und beliebig verbessern.
 
 Viel Spaß dabei wünscht Euch
 der Q1 Informatikkurs des AEGs Kaarst
