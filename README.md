@@ -41,7 +41,7 @@ der Q1 Informatikkurs des AEGs Kaarst
 - Gehäuse (3D-Druck)
 
 ## Schaltplan
-[![schaltplan](https://github.com/codekoch/EmCO2/blob/main/Co2%20Schaltplan.png)](https://github.com/codekoch/EmCO2/blob/main/Co2%20Schaltplan.png)
+[![schaltplan](https://github.com/codekoch/EmCO2/blob/main/Co2%20Schaltplan.svg)](https://github.com/codekoch/EmCO2/blob/main/Co2%20Schaltplan.png)
 
 ## Quellcode für den Arduino
 https://github.com/codekoch/EmCO2/blob/main/emCo2.ino
