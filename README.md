@@ -28,7 +28,7 @@ Da wir der Meinung sind, dass es in unserer sich immer weiter entwickelnden und 
 Viel Spaß dabei wünscht Euch
 
 der Q1 Informatikkurs des AEGs Kaarst
-(Ahmed Abdel-Rahim, Nils Bilowsky, Julian	Boetzel, Felix Dolf, Jannik	Heiden, Faris	Ibisevic, Fynn Jungclaus, Frederik Kluth, Noah Kutsojannis, Wahab	Meskinyar, Carolin Nötzold, Jan Moritz Pfafferott, Robin Reimer, Zoe Sikora, Jan Wiechers, Stephan Wiechers)
+(Ahmed Abdel-Rahim, Nils Bilowsky, Julian	Boetzel, Felix Dolf, Jannik	Heiden, Faris	Ibisevic, Fynn Jungclaus, Frederik Kluth, Noah Kutsojannis, Wahab	Meskinyar, Carolin Nötzold, Jan Moritz Pfafferott, Robin Reimer, Zoe Sikora, Jan und Stephan Wiechers)
 
 ## Bauteile
 - Arduino Leonardo
