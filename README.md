@@ -26,8 +26,8 @@ Als DIY-Projekt haben wir entsprechende Geräte mithilfe des Leonardo Arduinos p
 Da wir der Meinung sind, dass es in unserer sich immer weiter entwickelnden und digitalisierten Gesellschaft wichtig ist, nützliche Ideen für alle Menschen zugänglich zu machen, wollen wir unser Wissen als Open-Source-Projekt mit Euch teilen. Im Sinne des Open-Source Gedankens kann jeder unser Projekt nachbauen und beliebig verbessern.
 
 Viel Spaß dabei wünscht Euch
-der Q1 Informatikkurs des AEGs Kaarst
 
+der Q1 Informatikkurs des AEGs Kaarst
 (Ahmed Abdel-Rahim, Nils Bilowsky, Julian	Boetzel, Felix Dolf, Jannik	Heiden, Faris	Ibisevic, Fynn Jungclaus, Frederik Kluth, Noah Kutsojannis, Wahab	Meskinyar, Carolin Nötzold, Jan Moritz Pfafferott, Robin Reimer, Zoe Sikora, Jan Wiechers, Stephan Wiechers)
 
 ## Bauteile
