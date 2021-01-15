@@ -46,5 +46,8 @@ Viel Spaß dabei wünscht Euch
 ## Quellcode für den Arduino
 https://github.com/codekoch/EmCO2/blob/main/emCo2.ino
 
+## Vorlagen für den 3D-Druck
+https://www.thingiverse.com/thing:4689124
+
 Hinweis: Für unser Projekt haben wir einen Arduino Leonardo verwendet.
 
