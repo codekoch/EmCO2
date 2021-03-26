@@ -1,5 +1,5 @@
 // Code written by Felix Dolf in cooperation with the Q1 computer science course of AEG Kaarst (Dec 2020)
-#include <MHZ19.h>
+#include <MHZ19.h>  // use https://github.com/WifWaf/MH-Z19
 //Pin setup
 const int buzzer=12,green=11,orange=10,red=9,button=6;
 
