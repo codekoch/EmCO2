@@ -45,6 +45,7 @@ Viel Spaß dabei wünscht Euch
 
 ## Quellcode für den Arduino
 https://github.com/codekoch/EmCO2/blob/main/emCo2.ino
+Für den MH-Z19B Sensor haben wir die folgende Bibliothek verwendet: https://github.com/WifWaf/MH-Z19 
 
 ## Vorlagen für den 3D-Druck des Gehäuses
 https://www.thingiverse.com/thing:4689124
